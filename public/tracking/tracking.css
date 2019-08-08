@@ -1,0 +1,73 @@
+#mydiv {
+  position: absolute;
+  z-index: 400;
+  background-color: #f1f1f1;
+  width: 300px;
+  opacity: 0.9;
+  top: 30px;
+}
+
+#mydivheader {
+  cursor: move;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0;
+  height: 40px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  opacity: 0.9;
+  background: linear-gradient(110deg, #fcac4c 30%, #f98626 30%);
+}
+
+#mydivheader h4{
+  color: #000;
+  margin-left: 30%;
+  font-weight: 700;
+  font-size: 3vh;
+  font-family: sans-serif;
+}
+
+.box-widget {
+  border: none;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.box {
+  position: relative;
+  border-radius: 10px;
+  border: 3px solid #fab96b;
+  width: 100%;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  margin-bottom: 10px;
+}
+
+.widget-user-header {
+  padding: 5px;
+  border-radius: 10px;
+} 
+
+.widget-user-image>img {
+  width: 100px;
+  height: auto;
+  float: left;
+  border-radius: 10px;
+}   
+
+.widget-user-username {
+  font-size: 10px;
+}
+
+.widget-user-desc {
+  margin-left: 110px;
+}
+
+.widget-link {
+  margin-bottom: 0px;
+  margin-left: 110px;
+  cursor: pointer;
+}
+
+.detail-kapal{
+  background-color: #fcac4c;
+  font-size: 10px;
+  font-weight: bold;
+}

@@ -1,0 +1,14 @@
+#info {
+    position: absolute;
+    height: 35px;
+    width: 35px;
+    right: 80px;
+    top: 0px;
+    cursor: pointer;
+    border-radius: 100%;
+    background-image : url('info.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 400;
+}

@@ -1,0 +1,26 @@
+#logo {
+    position: fixed;
+    height: 7%;
+    top: 10px;
+    left: 1%;
+    width: 40%;
+    opacity: 0.9;
+    background: linear-gradient(110deg, #fcac4c 18%, #f98626 18%);
+}
+
+.logo_img{
+	position: absolute;
+	height: 100%;
+    width: auto;
+    margin-left: 2%;
+    padding: 5px 5px 5px 5px;
+}
+
+.head {
+    left: 20%;
+    top: 20%;
+    position: absolute;
+    font-weight: 700;
+    font-size: 3vh;
+    font-family: sans-serif;
+}
